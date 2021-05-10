@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @yash-sojitra
+- 👀 I’m interested in : web devlopment
+- 🌱 I’m currently learning : web devlopment (currently javascript)
